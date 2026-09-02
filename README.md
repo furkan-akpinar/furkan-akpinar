@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-header-animated.gif" width="100%" alt="Furkan Akpinar - Full Stack Developer">
+</p>
+
 # Furkan Akpınar
 
 ### Front-End Developer & Web Designer
