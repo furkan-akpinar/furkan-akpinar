@@ -26,3 +26,5 @@ Brand names and marks belong to their respective owners and do not imply affilia
 - `gsap.png`: https://gsap.com/apple-touch-icon.png
 - `lenis.png`: https://lenis.dev/apple-touch-icon.png
 - `vinext.png`: https://vinext.dev/favicon.ico?2dec4705e9ab399e
+
+React Router and Motion are placed on a light rounded tile so their original dark marks remain visible in both GitHub themes.
