@@ -122,7 +122,7 @@
         <p>
           <img src="./assets/tech/react.svg" alt="React" title="React" width="36" height="36">
           <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36">
-          <img src="./assets/tech/react-router.svg" alt="React Router" title="React Router" width="36" height="36">
+          <img src="./assets/tech/react-router-tile.svg" alt="React Router" title="React Router" width="36" height="36">
           <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="36" height="36">
           <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="36" height="36">
           <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="36" height="36">
@@ -185,7 +185,7 @@
           <img src="./assets/tech/vinext.png" alt="Vinext — Next.js App Router API’leri / Cloudflare" title="Vinext — Next.js App Router API’leri / Cloudflare" width="36" height="36">
           <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="36" height="36">
           <img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36">
-          <img src="./assets/tech/motion.svg" alt="Framer Motion" title="Framer Motion" width="36" height="36">
+          <img src="./assets/tech/motion-tile.svg" alt="Framer Motion" title="Framer Motion" width="36" height="36">
           <img src="./assets/tech/playwright.svg" alt="Playwright" title="Playwright" width="36" height="36">
         </p>
         <p><strong>Yayın:</strong> Cloudflare Workers</p>

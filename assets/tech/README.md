@@ -20,9 +20,9 @@ Brand names and marks belong to their respective owners and do not imply affilia
 - `tailwind.svg`: https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg
 - `github-actions.svg`: https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg
 - `nextjs.svg`: https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg
-- `react-router.svg`: https://raw.githubusercontent.com/pheralb/svgl/main/static/library/reactrouter.svg
+- `react-router-tile.svg`: https://raw.githubusercontent.com/pheralb/svgl/main/static/library/reactrouter.svg
 - `playwright.svg`: https://raw.githubusercontent.com/pheralb/svgl/main/static/library/playwright.svg
-- `motion.svg`: https://raw.githubusercontent.com/pheralb/svgl/main/static/library/motion.svg
+- `motion-tile.svg`: https://raw.githubusercontent.com/pheralb/svgl/main/static/library/motion.svg
 - `gsap.png`: https://gsap.com/apple-touch-icon.png
 - `lenis.png`: https://lenis.dev/apple-touch-icon.png
 - `vinext.png`: https://vinext.dev/favicon.ico?2dec4705e9ab399e
