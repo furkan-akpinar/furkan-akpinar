@@ -4,13 +4,15 @@
 
 <h1 align="center">Ön Yüz Geliştirici · Web Tasarımcısı</h1>
 
-<p align="center">
-  <strong>Görsel kimliği güçlü, kullanımı anlaşılır ve özenle tasarlanmış web deneyimleri geliştiriyorum.</strong>
-  Tasarımı ve ön yüz geliştirmeyi aynı sürecin parçaları olarak ele alıyor, fikirleri çalışan arayüzlere dönüştürüyorum.
-  Her projede markanın karakterine uygun tipografi, renk ve yerleşim kararlarıyla tutarlı bir görsel dil oluşturuyorum.
-  Etkileşimleri, içeriği destekleyecek ve kullanıcıyı yönlendirecek biçimde kurguluyorum.
-  Mobil, tablet ve masaüstünde rahat kullanılabilen arayüzleri modern web teknolojileriyle hayata geçiriyorum.
-  Amacım, estetik niteliği yüksek, erişilebilir ve bakımı kolay dijital ürünler ortaya koymak.
+<h2 align="center">Hakkımda</h2>
+
+<p>
+  Ben Furkan Akpınar; <strong>web tasarımı ve ön yüz geliştirme</strong> becerilerini bir araya getirerek markalara özgü dijital deneyimler oluşturuyorum.
+  HTML, CSS, JavaScript ve TypeScript temelimle <strong>React ve Next.js üzerinde yeniden kullanılabilir, bakımı kolay arayüzler</strong> geliştiriyorum.
+  Tipografi, görsel hiyerarşi ve etkileşim tasarımını; mobil, tablet ve masaüstünde tutarlı çalışan kullanıcı deneyimlerine dönüştürüyorum.
+  Çok sayfalı portföyler, filtrelenebilir kataloglar, karşılaştırma ekranları ve çok adımlı formlar gibi farklı ihtiyaçlara yönelik çözümler üretiyorum.
+  <strong>Erişilebilirlik, performans ve test</strong> konularını geliştirme sürecine dahil ediyor, temel kullanıcı akışlarını tarayıcı kontrolleri ve uygun projelerde Playwright ile doğruluyorum.
+  Git ve GitHub ile sürüm kontrolünden Cloudflare Workers, Vercel ve GitHub Pages üzerinde yayına kadar projenin uygulama sürecini yürütüyorum.
 </p>
 
 <p align="center">
@@ -19,42 +21,12 @@
   <img src="https://img.shields.io/badge/ETK%C4%B0LE%C5%9E%C4%B0M-0EA5E9?style=for-the-badge" alt="Etkileşim">
   &nbsp;
   <img src="https://img.shields.io/badge/KOD-10B981?style=for-the-badge" alt="Kod">
-</p>
-
-<br>
-
-<h2 align="center">Hakkımda</h2>
-
-<p>
-  Ben Furkan Akpınar; İstanbul’da yaşayan, web tasarımı ve ön yüz geliştirme alanlarında çalışan bağımsız bir geliştiriciyim.
-  Markaların ve kişisel projelerin dijital kimliğini, işlevsel ve kendine özgü web deneyimlerine dönüştürüyorum.
-  Bir projeyi ele alırken hedef kitlesini, içeriğini ve kullanım amacını birlikte değerlendiriyor; bilgi mimarisinden görsel tasarıma,
-  arayüz geliştirmeden yayına kadar birbirini tamamlayan kararlar alıyorum.
-</p>
-
-<p>
-  <strong>Teknik yetkinliğimin temelini HTML, CSS, JavaScript ve TypeScript oluşturuyor.</strong>
-  React ve Next.js ile bileşen tabanlı arayüzler geliştiriyor; sayfa yapısını, veri akışını ve etkileşimleri projenin ihtiyaçlarına göre düzenliyorum.
-  Yeniden kullanılabilir bileşenler, anlaşılır kod ve düzenli bir proje yapısıyla geliştirme sürecinin sürdürülebilir olmasına önem veriyorum.
-  Projelerimde çok sayfalı portföyler, filtrelenebilir kataloglar, favoriler, karşılaştırma ekranları ve çok adımlı formlar gibi farklı kullanıcı akışları üzerinde çalışıyorum.
-</p>
-
-<p>
-  <strong>Tasarım tarafında tipografi, görsel hiyerarşi, kompozisyon ve etkileşim tasarımına odaklanıyorum.</strong>
-  İçeriğin kolay taranmasını, önemli bilgilerin görünür olmasını ve her ekranın tutarlı bir bütünün parçası olarak çalışmasını hedefliyorum.
-  Animasyonları ve geçişleri kullanıcıya geri bildirim vermek, gezinmeyi desteklemek ve anlatımı güçlendirmek için kullanıyorum.
-  Ekran boyutuna uyum, klavye ile kullanım, görünür odak durumları ve okunabilirlik gibi ayrıntıları tasarımın ve uygulamanın içine dahil ediyorum.
-</p>
-
-<p>
-  Geliştirdiğim çalışmaların kalitesini, görünüm kadar kullanım sırasında gösterdiği davranışla da değerlendiriyorum.
-  Temel kullanıcı akışlarını tarayıcıda kontrol ediyor, uygun projelerde Playwright testlerinden yararlanıyor ve performansı ölçerek iyileştirme alanlarını belirliyorum.
-  Git ve GitHub ile sürüm kontrolü sağlıyor; projeleri ihtiyaçlarına göre Cloudflare Workers, Vercel veya GitHub Pages üzerinde yayınlıyorum.
-  Portföyümde yaratıcı stüdyo, mimarlık, konaklama, otomotiv ve medya alanlarını bir araya getirerek farklı içerik ve etkileşim ihtiyaçlarına yönelik deneyimimi geliştiriyorum.
-</p>
-
-<p align="center">
-  <strong>Tasarımda karakter. Etkileşimde açıklık. Kodda sürdürülebilirlik.</strong>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PERFORMANS-F59E0B?style=for-the-badge" alt="Performans">
+  &nbsp;
+  <img src="https://img.shields.io/badge/ER%C4%B0%C5%9E%C4%B0LEB%C4%B0L%C4%B0RL%C4%B0K-EC4899?style=for-the-badge" alt="Erişilebilirlik">
+  &nbsp;
+  <img src="https://img.shields.io/badge/TEST-6366F1?style=for-the-badge" alt="Test">
 </p>
 
 <br>
@@ -102,124 +74,118 @@
     <tr>
       <td width="100%" valign="top">
         <h3 align="left">01 · KIPIR</h3>
-        <p>Hareketli tipografi, 3D video galerisi ve çok adımlı brief formuyla 15 sayfalık yaratıcı stüdyo portföyü.</p>
-        <p><strong>Teknolojiler</strong></p>
         <p>
-          <img src="./assets/tech/react.svg" alt="React" title="React" width="36" height="36">
-          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36">
-          <img src="./assets/tech/react-router-tile.svg" alt="React Router" title="React Router" width="36" height="36">
-          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="36" height="36">
-          <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="36" height="36">
-          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="36" height="36">
-        </p>
-        <p><strong>Yayın:</strong> Cloudflare Workers</p>
-        <p align="left">
+          Hareketli tipografi, 3D video galerisi ve çok adımlı brief formuyla 15 sayfalık yaratıcı stüdyo portföyü.<br>
+          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
+          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+          <img src="./assets/tech/react-router-tile.svg" alt="React Router" title="React Router" width="32" height="32">
+          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="32" height="32">
+          <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="32" height="32">
+          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="32" height="32">
+          &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/kipir-studio"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
           <a href="https://kipir-studio.furkan-akpinar.workers.dev"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Cloudflare Workers</sub>
         </p>
       </td>
     </tr>
     <tr>
       <td width="100%" valign="top">
         <h3 align="left">02 · Snow Medya</h3>
-        <p>Sinematik açılış, video seçkisi ve ekrana uyumlu medya kullanımıyla kişisel kayak çekimi konseptini anlatan portföy sitesi.</p>
-        <p><strong>Teknolojiler</strong></p>
         <p>
-          <img src="./assets/tech/html.svg" alt="HTML5" title="HTML5" width="36" height="36">
-          <img src="./assets/tech/css.svg" alt="CSS3" title="CSS3" width="36" height="36">
-          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="36" height="36">
-          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="36" height="36">
-          <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="36" height="36">
-          <img src="./assets/tech/lenis.png" alt="Lenis" title="Lenis" width="36" height="36">
-        </p>
-        <p><strong>Yayın:</strong> Cloudflare Workers</p>
-        <p align="left">
+          Sinematik açılış, video seçkisi ve ekrana uyumlu medya kullanımıyla kişisel kayak çekimi konseptini anlatan portföy sitesi.<br>
+          <img src="./assets/tech/html.svg" alt="HTML5" title="HTML5" width="32" height="32">
+          <img src="./assets/tech/css.svg" alt="CSS3" title="CSS3" width="32" height="32">
+          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="32" height="32">
+          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="32" height="32">
+          <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="32" height="32">
+          <img src="./assets/tech/lenis.png" alt="Lenis" title="Lenis" width="32" height="32">
+          &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/snow-medya"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
           <a href="https://snow-medya.furkan-akpinar.workers.dev/"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Cloudflare Workers</sub>
         </p>
       </td>
     </tr>
     <tr>
       <td width="100%" valign="top">
         <h3 align="left">03 · Furkan Akpınar · Dijital Ajans</h3>
-        <p>Hizmet detaylarını ve portföy çalışmalarını bir araya getiren, erişilebilir etkileşimler ve tarayıcı testleri içeren 13 sayfalık web sitesi.</p>
-        <p><strong>Teknolojiler</strong></p>
         <p>
-          <img src="./assets/tech/react.svg" alt="React" title="React" width="36" height="36">
-          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36">
-          <img src="./assets/tech/vinext.png" alt="Vinext — Next.js App Router API’leri / Cloudflare" title="Vinext — Next.js App Router API’leri / Cloudflare" width="36" height="36">
-          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="36" height="36">
-          <img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36">
-          <img src="./assets/tech/playwright.svg" alt="Playwright" title="Playwright" width="36" height="36">
-          <img src="./assets/tech/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36">
-        </p>
-        <p><strong>Yayın:</strong> Cloudflare Workers</p>
-        <p align="left">
+          Hizmet detaylarını ve portföy çalışmalarını bir araya getiren, erişilebilir etkileşimler ve tarayıcı testleri içeren 13 sayfalık web sitesi.<br>
+          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
+          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+          <img src="./assets/tech/vinext.png" alt="Vinext — Next.js App Router API’leri / Cloudflare" title="Vinext — Next.js App Router API’leri / Cloudflare" width="32" height="32">
+          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="32" height="32">
+          <img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32">
+          <img src="./assets/tech/playwright.svg" alt="Playwright" title="Playwright" width="32" height="32">
+          <img src="./assets/tech/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="32" height="32">
+          &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/furkan-akpinar-dijital-ajans"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
           <a href="https://furkan-akpinar-dijital-ajans.furkan-akpinar.workers.dev"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Cloudflare Workers</sub>
         </p>
       </td>
     </tr>
     <tr>
       <td width="100%" valign="top">
         <h3 align="left">04 · VANTA DRIVE</h3>
-        <p>20 araçlık katalog, filtreleme, favoriler, karşılaştırma ve dört adımlı rezervasyon akışı içeren araç kiralama portföy demosu.</p>
-        <p><strong>Teknolojiler</strong></p>
         <p>
-          <img src="./assets/tech/react.svg" alt="React" title="React" width="36" height="36">
-          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36">
-          <img src="./assets/tech/vinext.png" alt="Vinext — Next.js App Router API’leri / Cloudflare" title="Vinext — Next.js App Router API’leri / Cloudflare" width="36" height="36">
-          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="36" height="36">
-          <img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36">
-          <img src="./assets/tech/motion-tile.svg" alt="Framer Motion" title="Framer Motion" width="36" height="36">
-          <img src="./assets/tech/playwright.svg" alt="Playwright" title="Playwright" width="36" height="36">
-        </p>
-        <p><strong>Yayın:</strong> Cloudflare Workers</p>
-        <p align="left">
+          20 araçlık katalog, filtreleme, favoriler, karşılaştırma ve dört adımlı rezervasyon akışı içeren araç kiralama portföy demosu.<br>
+          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
+          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+          <img src="./assets/tech/vinext.png" alt="Vinext — Next.js App Router API’leri / Cloudflare" title="Vinext — Next.js App Router API’leri / Cloudflare" width="32" height="32">
+          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="32" height="32">
+          <img src="./assets/tech/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32">
+          <img src="./assets/tech/motion-tile.svg" alt="Framer Motion" title="Framer Motion" width="32" height="32">
+          <img src="./assets/tech/playwright.svg" alt="Playwright" title="Playwright" width="32" height="32">
+          &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/vanta-drive"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
           <a href="https://vanta-drive.furkan-akpinar.workers.dev"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Cloudflare Workers</sub>
         </p>
       </td>
     </tr>
     <tr>
       <td width="100%" valign="top">
         <h3 align="left">05 · Ezo Eylül Sağır</h3>
-        <p>Proje galerileri, detay sayfaları ve gündüz / gece karşılaştırmalarıyla mimari görselleştirmeleri sunan etkileşimli iç mimarlık portföyü.</p>
-        <p><strong>Teknolojiler</strong></p>
         <p>
-          <img src="./assets/tech/html.svg" alt="HTML5" title="HTML5" width="36" height="36">
-          <img src="./assets/tech/css.svg" alt="CSS3 / Responsive Web Design" title="CSS3 / Responsive Web Design" width="36" height="36">
-          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="36" height="36">
-        </p>
-        <p><strong>Yayın:</strong> GitHub Pages</p>
-        <p align="left">
+          Proje galerileri, detay sayfaları ve gündüz / gece karşılaştırmalarıyla mimari görselleştirmeleri sunan etkileşimli iç mimarlık portföyü.<br>
+          <img src="./assets/tech/html.svg" alt="HTML5" title="HTML5" width="32" height="32">
+          <img src="./assets/tech/css.svg" alt="CSS3 / Responsive Web Design" title="CSS3 / Responsive Web Design" width="32" height="32">
+          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="32" height="32">
+          &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/ezo-eylul-sagir-interactive"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
           <a href="https://furkan-akpinar.github.io/ezo-eylul-sagir-interactive/"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: GitHub Pages</sub>
         </p>
       </td>
     </tr>
     <tr>
       <td width="100%" valign="top">
         <h3 align="left">06 · NOA MARE</h3>
-        <p>Oda, deneyim ve restoran sayfalarını filtrelenebilir galeriyle birleştiren; sinematik görseller ve editoryal yerleşimlere sahip konsept butik otel sitesi.</p>
-        <p><strong>Teknolojiler</strong></p>
         <p>
-          <img src="./assets/tech/nextjs.svg" alt="Next.js App Router" title="Next.js App Router" width="36" height="36">
-          <img src="./assets/tech/react.svg" alt="React" title="React" width="36" height="36">
-          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36">
-          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="36" height="36">
-          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="36" height="36">
-        </p>
-        <p><strong>Yayın:</strong> Vercel</p>
-        <p align="left">
+          Oda, deneyim ve restoran sayfalarını filtrelenebilir galeriyle birleştiren; sinematik görseller ve editoryal yerleşimlere sahip konsept butik otel sitesi.<br>
+          <img src="./assets/tech/nextjs.svg" alt="Next.js App Router" title="Next.js App Router" width="32" height="32">
+          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
+          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="32" height="32">
+          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="32" height="32">
+          &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/noa-mare-boutique-hotel"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
           <a href="https://noa-mare-boutique-hotel.vercel.app"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Vercel</sub>
         </p>
       </td>
     </tr>
