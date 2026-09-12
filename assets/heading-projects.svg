@@ -1,6 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="64" viewBox="0 0 480 64" role="img" aria-labelledby="title desc">
-  <title id="title">Front-End Çalışmaları</title>
-  <desc id="desc">Neon sarı yazı, elektrik mavisi ve magenta detaylarla cyberpunk başlık.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-labelledby="heading-title"><title id="heading-title">Front-End Çalışmaları</title><desc>Neon devre kanatları ve cyberpunk başlık. Hareketli sürümü aynı adlı GIF dosyasındadır.</desc><rect width="1000" height="100" fill="#010409"/><g transform="" fill="none" stroke-linejoin="bevel">
+ <path d="M14 16H101L123 38H211 M14 83H119L138 64H215" stroke="#00F0FF" opacity=".28"/>
+ <path d="M18 66H80L96 50H176L199 27H218" stroke="#00F0FF" stroke-width="1.5" opacity=".7"/>
+ <path d="M74 38H113L139 64H190L215 89" stroke="#FF2A8A" opacity=".55"/>
+ <path d="M11 29V14H28 M10 73V87H30" stroke="#FF2A8A" stroke-width="2" opacity=".7"/>
+ <path d="M112 19H161 M174 19H199 M31 77H75" stroke="#5A416B"/>
+ <g stroke="#00F0FF" stroke-width="1.2" opacity=".65"><path d="M43 28L33 38L43 48 M57 28L67 38L57 48 M54 25L46 51"/></g>
+ <g stroke="#FF2A8A" opacity=".75"><circle cx="80" cy="66" r="2.5"/><circle cx="139" cy="64" r="2.5"/><circle cx="199" cy="27" r="2.5"/></g>
+ <path d="M127 79L119 87 M138 79L130 87 M149 79L141 87 M160 79L152 87" stroke="#F4FF00" stroke-width="2" opacity=".5"/>
+ <path d="M181 76H185 M190 76H194 M199 76H203 M208 76H212" stroke="#00F0FF" stroke-width="2" opacity=".65"/>
+ </g><g transform="translate(1000 0) scale(-1 1)" fill="none" stroke-linejoin="bevel">
+ <path d="M14 16H101L123 38H211 M14 83H119L138 64H215" stroke="#FF2A8A" opacity=".28"/>
+ <path d="M18 66H80L96 50H176L199 27H218" stroke="#FF2A8A" stroke-width="1.5" opacity=".7"/>
+ <path d="M74 38H113L139 64H190L215 89" stroke="#00F0FF" opacity=".55"/>
+ <path d="M11 29V14H28 M10 73V87H30" stroke="#00F0FF" stroke-width="2" opacity=".7"/>
+ <path d="M112 19H161 M174 19H199 M31 77H75" stroke="#5A416B"/>
+ <g stroke="#FF2A8A" stroke-width="1.2" opacity=".65"><path d="M43 28L33 38L43 48 M57 28L67 38L57 48 M54 25L46 51"/></g>
+ <g stroke="#00F0FF" opacity=".75"><circle cx="80" cy="66" r="2.5"/><circle cx="139" cy="64" r="2.5"/><circle cx="199" cy="27" r="2.5"/></g>
+ <path d="M127 79L119 87 M138 79L130 87 M149 79L141 87 M160 79L152 87" stroke="#F4FF00" stroke-width="2" opacity=".5"/>
+ <path d="M181 76H185 M190 76H194 M199 76H203 M208 76H212" stroke="#FF2A8A" stroke-width="2" opacity=".65"/>
+ </g><g transform="translate(220 12.6667) scale(1.1666667)">
+  
+  
   <defs>
     <clipPath id="panel"><path d="M 19 3 H 449 L 477 31 V 45 L 461 61 H 31 L 3 33 V 19 Z"/></clipPath>
     <clipPath id="glitch-cyan"><rect x="0" y="23" width="480" height="2"/></clipPath>
@@ -21,4 +41,4 @@
   <path d="M 58 54 H 422" stroke="#F4FF00" stroke-opacity=".18"/>
   <path d="M 216 54 H 250" stroke="#00F0FF" stroke-width="2"/>
   <path d="M 254 54 H 269" stroke="#FF2A8A" stroke-width="2"/>
-</svg>
+</g></svg>
