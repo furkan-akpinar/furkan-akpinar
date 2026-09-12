@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-role.gif" width="720" alt="Frontend Developer · Web Tasarımcısı">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-role.svg" width="720" alt="Frontend Developer · Web Tasarımcısı">
 </h1>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-about.gif" width="100%" alt="Hakkımda">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-about.svg" width="100%" alt="Hakkımda">
 </h2>
 
 <p>
@@ -36,7 +36,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-technologies.gif" width="100%" alt="Teknolojiler ve Araçlar">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-technologies.svg" width="100%" alt="Teknolojiler ve Araçlar">
 </h2>
 <p align="center">Fikirden arayüze, geliştirmeden yayına.</p>
 
@@ -85,7 +85,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-projects.gif" width="100%" alt="Front-End Çalışmaları">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-projects.svg" width="100%" alt="Front-End Çalışmaları">
 </h2>
 <p align="center">Farklı sektörler için tasarladığım ve geliştirdiğim web deneyimleri.</p>
 
@@ -215,7 +215,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-backend.gif" width="100%" alt="Back-End Çalışmaları">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-backend.svg" width="100%" alt="Back-End Çalışmaları">
 </h2>
 <p align="center">Planlama süreci devam eden yeni yönetim uygulamalarım.</p>
 
