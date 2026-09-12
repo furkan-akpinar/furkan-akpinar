@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="./assets/heading-role.svg" width="568" height="48" alt="Ön Yüz Geliştirici · Web Tasarımcısı">
+  <img src="./assets/heading-role.svg?v=cyberpunk-1" width="720" alt="Ön Yüz Geliştirici · Web Tasarımcısı">
 </h1>
 
 <h2 align="center">
-  <img src="./assets/heading-about.svg" width="144" height="38" alt="Hakkımda">
+  <img src="./assets/heading-about.svg?v=cyberpunk-1" width="480" alt="Hakkımda">
 </h2>
 
 <p>
@@ -36,7 +36,7 @@
 <br>
 
 <h2 align="center">
-  <img src="./assets/heading-technologies.svg" width="284" height="38" alt="Teknolojiler ve Araçlar">
+  <img src="./assets/heading-technologies.svg?v=cyberpunk-1" width="480" alt="Teknolojiler ve Araçlar">
 </h2>
 <p align="center">Fikirden arayüze, geliştirmeden yayına.</p>
 
@@ -85,7 +85,7 @@
 <br>
 
 <h2 align="center">
-  <img src="./assets/heading-projects.svg" width="180" height="38" alt="Seçili Projeler">
+  <img src="./assets/heading-projects.svg?v=cyberpunk-1" width="480" alt="Front-End Çalışmaları">
 </h2>
 <p align="center">Farklı sektörler için tasarladığım ve geliştirdiğim web deneyimleri.</p>
 
@@ -215,7 +215,7 @@
 <br>
 
 <h2 align="center">
-  <img src="./assets/heading-backend.svg" width="264" height="38" alt="Back-End Çalışmaları">
+  <img src="./assets/heading-backend.svg?v=cyberpunk-1" width="480" alt="Back-End Çalışmaları">
 </h2>
 <p align="center">Planlama süreci devam eden yeni yönetim uygulamalarım.</p>
 
