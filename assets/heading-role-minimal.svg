@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="50" viewBox="0 0 520 50" role="img" aria-labelledby="title desc">
+  <title id="title">Frontend Developer · Web Tasarımcısı</title>
+  <desc id="desc">İnce neon kenarlı, sade ve statik cyberpunk unvan şeridi.</desc>
+  <path d="M14 3H502L517 18V35L505 47H18L3 32V14Z" fill="#0B0918" stroke="#342A43"/>
+  <path d="M3 23V14L14 3H118" fill="none" stroke="#00F0FF" stroke-width="1.5"/>
+  <path d="M517 28V35L505 47H402" fill="none" stroke="#FF2A8A" stroke-width="1.5"/>
+  <path d="M498 7L513 22" fill="none" stroke="#F4FF00" stroke-width="1.5"/>
+  <path d="M7 31L19 43" fill="none" stroke="#FF2A8A" stroke-width="1.5"/>
+  <text x="260" y="31" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="20" font-weight="700" font-style="italic" letter-spacing="0.1" fill="#F4FF00">FRONTEND DEVELOPER · WEB TASARIMCISI</text>
+  <path d="M222 40H266" stroke="#00F0FF" stroke-opacity=".55"/>
+  <path d="M271 40H297" stroke="#FF2A8A" stroke-opacity=".55"/>
+</svg>
