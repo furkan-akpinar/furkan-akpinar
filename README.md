@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-role.svg" width="720" alt="Frontend Developer · Web Tasarımcısı">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/f9ba239e244a1fd47bb96fc84b44fe7b64ca1563/assets/heading-role-samurai.gif" width="100%" alt="Frontend Developer · Web Tasarımcısı">
 </h1>
 
 <h2 align="center">
