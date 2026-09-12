@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-animated.gif" width="100%" alt="Furkan Akpınar — Ön Yüz Geliştirici ve Web Tasarımcısı">
+  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/e7d3579e5472b6eb6710f199c16101a84d3667c9/github-header-animated.gif" width="100%" alt="Furkan Akpınar — Ön Yüz Geliştirici ve Web Tasarımcısı">
 </p>
 
 <h1 align="center">
