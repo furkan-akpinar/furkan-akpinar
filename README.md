@@ -37,27 +37,39 @@
 <table align="center" width="100%">
   <tbody>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Ön Yüz Geliştirme</h3>
+      <td width="33%" valign="top">
+        <h3 align="center">Front-End Geliştirme</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts&amp;theme=dark" alt="HTML5, CSS3, JavaScript ve TypeScript" width="248">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts&amp;theme=dark" alt="HTML5, CSS3, JavaScript ve TypeScript" width="216">
         </p>
-        <p align="center">HTML5 &nbsp; · &nbsp; CSS3 &nbsp; · &nbsp; JavaScript &nbsp; · &nbsp; TypeScript</p>
+        <p align="center">HTML5 &nbsp; · &nbsp; CSS3<br>JavaScript &nbsp; · &nbsp; TypeScript</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&amp;theme=dark" alt="React, Next.js, Vite ve Tailwind CSS" width="248">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&amp;theme=dark" alt="React, Next.js, Vite ve Tailwind CSS" width="216">
         </p>
-        <p align="center">React &nbsp; · &nbsp; Next.js &nbsp; · &nbsp; Vite &nbsp; · &nbsp; Tailwind CSS</p>
+        <p align="center">React &nbsp; · &nbsp; Next.js<br>Vite &nbsp; · &nbsp; Tailwind CSS</p>
       </td>
-      <td width="50%" valign="top">
+      <td width="34%" valign="top">
+        <h3 align="center">Back-End Geliştirme</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=ts,nodejs&amp;theme=dark" alt="TypeScript ve Node.js" width="104">
+        </p>
+        <p align="center">TypeScript &nbsp; · &nbsp; JavaScript<br>Node.js</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=express,postgres&amp;theme=dark" alt="Express ve PostgreSQL" width="104">
+        </p>
+        <p align="center">Express<br>PostgreSQL &nbsp; · &nbsp; SQL</p>
+        <p align="center"><sub>Yeni projeler için planlanan teknoloji seti.</sub></p>
+      </td>
+      <td width="33%" valign="top">
         <h3 align="center">Geliştirme ve Yayınlama</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub ve Visual Studio Code" width="184">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub ve Visual Studio Code" width="160">
         </p>
-        <p align="center">Git &nbsp; · &nbsp; GitHub &nbsp; · &nbsp; Visual Studio Code</p>
+        <p align="center">Git &nbsp; · &nbsp; GitHub<br>Visual Studio Code</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=githubactions,vercel,cloudflare&amp;theme=dark" alt="GitHub Actions, Vercel ve Cloudflare" width="184">
+          <img src="https://skillicons.dev/icons?i=githubactions,vercel,cloudflare&amp;theme=dark" alt="GitHub Actions, Vercel ve Cloudflare" width="160">
         </p>
-        <p align="center">GitHub Actions &nbsp; · &nbsp; Vercel &nbsp; · &nbsp; Cloudflare Workers</p>
+        <p align="center">GitHub Actions &nbsp; · &nbsp; Vercel<br>Cloudflare Workers</p>
         <p align="center"><sub>Statik projeler için GitHub Pages de kullanıyorum.</sub></p>
       </td>
     </tr>
@@ -195,19 +207,36 @@
 <br>
 
 <h2 align="center">Back-End Çalışmaları</h2>
+<p align="center">Planlama süreci devam eden yeni yönetim uygulamalarım.</p>
 
 <table align="center" width="100%">
   <tbody>
     <tr>
-      <td width="100%" align="center">
-        <h3>Yakında</h3>
-        <p>Sunucu tarafı geliştirme alanındaki çalışmalarımı bu bölümde paylaşacağım.</p>
-        <p>API tasarımı, veri tabanı işlemleri ve uygulama servisleri üzerine projelerle portföyümü genişletmeyi hedefliyorum.</p>
-        <p>Projeler hazır oldukça kaynak kodlarını, kullandığım teknolojileri ve teknik açıklamalarını burada bulabileceksin.</p>
+      <td width="100%" valign="top">
+        <h3 align="left">01 · Randevu ve İşletme Yönetimi</h3>
+        <p><strong>Devam ediyor...</strong> &nbsp; · &nbsp; Planlama aşamasında.<br>Randevu takvimi, müşteri kayıtları ve işletme süreçlerini tek panelde birleştirmeyi hedefleyen yönetim uygulaması.</p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&amp;theme=dark" alt="Planlanan teknolojiler: TypeScript, Node.js, Express ve PostgreSQL" width="144"><br>
+          <strong>Planlanan diller:</strong> TypeScript / JavaScript &nbsp; · &nbsp; SQL<br>
+          <strong>Planlanan altyapı:</strong> Node.js &nbsp; · &nbsp; Express &nbsp; · &nbsp; PostgreSQL
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
+        <h3 align="left">02 · Kurye ve Teslimat Yönetimi</h3>
+        <p><strong>Devam ediyor...</strong> &nbsp; · &nbsp; Planlama aşamasında.<br>Teslimat talepleri, kurye ataması ve teslimat durumlarının takibini bir araya getirmeyi hedefleyen yönetim uygulaması.</p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&amp;theme=dark" alt="Planlanan teknolojiler: TypeScript, Node.js, Express ve PostgreSQL" width="144"><br>
+          <strong>Planlanan diller:</strong> TypeScript / JavaScript &nbsp; · &nbsp; SQL<br>
+          <strong>Planlanan altyapı:</strong> Node.js &nbsp; · &nbsp; Express &nbsp; · &nbsp; PostgreSQL
+        </p>
       </td>
     </tr>
   </tbody>
 </table>
+
+<p align="center"><sub>Kaynak kod, canlı demo ve ayrıntılı proje bilgileri yayınlandıktan sonra eklenecek.</sub></p>
 
 <br>
 
