@@ -2,9 +2,13 @@
   <img src="./github-header-animated.gif" width="100%" alt="Furkan Akpınar — Ön Yüz Geliştirici ve Web Tasarımcısı">
 </p>
 
-<h1 align="center">Ön Yüz Geliştirici · Web Tasarımcısı</h1>
+<h1 align="center">
+  <img src="./assets/heading-role.svg" width="568" height="48" alt="Ön Yüz Geliştirici · Web Tasarımcısı">
+</h1>
 
-<h2 align="center">Hakkımda</h2>
+<h2 align="center">
+  <img src="./assets/heading-about.svg" width="144" height="38" alt="Hakkımda">
+</h2>
 
 <p>
   Ben Furkan Akpınar; <strong>web tasarımı ve ön yüz geliştirme</strong> becerilerini bir araya getirerek markalara özgü dijital deneyimler oluşturuyorum.
@@ -31,7 +35,9 @@
 
 <br>
 
-<h2 align="center">Teknolojiler ve Araçlar</h2>
+<h2 align="center">
+  <img src="./assets/heading-technologies.svg" width="284" height="38" alt="Teknolojiler ve Araçlar">
+</h2>
 <p align="center">Fikirden arayüze, geliştirmeden yayına.</p>
 
 <table align="center" width="100%">
@@ -78,7 +84,9 @@
 
 <br>
 
-<h2 align="center">Seçili Projeler</h2>
+<h2 align="center">
+  <img src="./assets/heading-projects.svg" width="180" height="38" alt="Seçili Projeler">
+</h2>
 <p align="center">Farklı sektörler için tasarladığım ve geliştirdiğim web deneyimleri.</p>
 
 <table align="center" width="100%">
@@ -206,7 +214,9 @@
 
 <br>
 
-<h2 align="center">Back-End Çalışmaları</h2>
+<h2 align="center">
+  <img src="./assets/heading-backend.svg" width="264" height="38" alt="Back-End Çalışmaları">
+</h2>
 <p align="center">Planlama süreci devam eden yeni yönetim uygulamalarım.</p>
 
 <table align="center" width="100%">
