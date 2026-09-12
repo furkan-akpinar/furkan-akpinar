@@ -240,34 +240,6 @@
 
 <br>
 
-<h2 align="center">Odak Alanlarım</h2>
-
-<p align="center">
-  <strong>Yaratıcı Ön Yüz Geliştirme</strong><br>
-  Markaya özgü tasarım dili ve karakterli arayüzler.
-</p>
-
-<p align="center">
-  <strong>Editoryal Tasarım ve Görsel Anlatım</strong><br>
-  Tipografi, kompozisyon ve amaca uygun etkileşim.
-</p>
-
-<p align="center">
-  <strong>React ve TypeScript</strong><br>
-  Bileşen mimarisi, tutarlı veri akışı ve sürdürülebilir geliştirme.
-</p>
-
-<p align="center">
-  <strong>Kullanılabilirlik ve Kalite</strong><br>
-  Mobil deneyim, erişilebilirlik, test ve performans.
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Özenli tasarım. Anlaşılır etkileşim. Sürdürülebilir kod.</strong>
-</p>
-
 <p align="center">
   <a href="https://github.com/furkan-akpinar">
     <img src="https://img.shields.io/badge/GitHub-Profilimi_incele-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profilimi incele">
