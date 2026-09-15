@@ -93,7 +93,27 @@
   <tbody>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="left">01 · KIPIR</h3>
+        <h3 align="left">01 · KARAKTER STUDYO</h3>
+        <p>
+          Hareketli tipografi, 3D video galerisi ve çok adımlı brief formuyla 15 sayfalık yaratıcı stüdyo portföyü.<br>
+          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
+          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+          <img src="./assets/tech/react-router-tile.svg" alt="React Router" title="React Router" width="32" height="32">
+          <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="32" height="32">
+          <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="32" height="32">
+          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="32" height="32">
+          &nbsp; · &nbsp;
+          <a href="https://github.com/furkan-akpinar/karakter-studyo"><strong>Kaynak kod</strong></a>
+          &nbsp; · &nbsp;
+          <a href="https://karakter-studyo.furkan-akpinar.workers.dev/"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Cloudflare Workers</sub>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
+        <h3 align="left">02 · KIPIR</h3>
         <p>
           Hareketli tipografi, 3D video galerisi ve çok adımlı brief formuyla 15 sayfalık yaratıcı stüdyo portföyü.<br>
           <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
