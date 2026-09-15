@@ -93,7 +93,7 @@
   <tbody>
     <tr>
   <td width="100%" valign="top">
-    <h3 align="left">01 · KARAKTER STÜDYO</h3>
+    <h3 align="left">KARAKTER STÜDYO</h3>
     <p>
       Etkileşimli tipografi, filtrelenebilir projeler, 2.5D stüdyo odası ve brief oluşturma formuyla illüstrasyon portföyü.<br>
       <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
@@ -114,7 +114,7 @@
 </tr>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="left">02 · KIPIR</h3>
+        <h3 align="left">KIPIR</h3>
         <p>
           Hareketli tipografi, 3D video galerisi ve çok adımlı brief formuyla 15 sayfalık yaratıcı stüdyo portföyü.<br>
           <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
@@ -134,7 +134,7 @@
     </tr>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="left">02 · Snow Medya</h3>
+        <h3 align="left">Snow Medya</h3>
         <p>
           Sinematik açılış, video seçkisi ve ekrana uyumlu medya kullanımıyla kişisel kayak çekimi konseptini anlatan portföy sitesi.<br>
           <img src="./assets/tech/html.svg" alt="HTML5" title="HTML5" width="32" height="32">
@@ -154,7 +154,7 @@
     </tr>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="left">03 · Furkan Akpınar · Dijital Ajans</h3>
+        <h3 align="left">Furkan Akpınar · Dijital Ajans</h3>
         <p>
           Hizmet detaylarını ve portföy çalışmalarını bir araya getiren, erişilebilir etkileşimler ve tarayıcı testleri içeren 13 sayfalık web sitesi.<br>
           <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
@@ -175,7 +175,7 @@
     </tr>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="left">04 · VANTA DRIVE</h3>
+        <h3 align="left">VANTA DRIVE</h3>
         <p>
           20 araçlık katalog, filtreleme, favoriler, karşılaştırma ve dört adımlı rezervasyon akışı içeren araç kiralama portföy demosu.<br>
           <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
@@ -196,7 +196,7 @@
     </tr>
     <tr>
       <td width="100%" valign="top">
-        <h3 align="left">05 · Ezo Eylül Sağır</h3>
+        <h3 align="left">Ezo Eylül Sağır</h3>
         <p>
           Proje galerileri, detay sayfaları ve gündüz / gece karşılaştırmalarıyla mimari görselleştirmeleri sunan etkileşimli iç mimarlık portföyü.<br>
           <img src="./assets/tech/html.svg" alt="HTML5" title="HTML5" width="32" height="32">
@@ -208,25 +208,6 @@
           <a href="https://furkan-akpinar.github.io/ezo-eylul-sagir-interactive/"><strong>Canlı demo ↗</strong></a>
           &nbsp; · &nbsp;
           <sub>Yayın: GitHub Pages</sub>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="100%" valign="top">
-        <h3 align="left">06 · NOA MARE</h3>
-        <p>
-          Oda, deneyim ve restoran sayfalarını filtrelenebilir galeriyle birleştiren; sinematik görseller ve editoryal yerleşimlere sahip konsept butik otel sitesi.<br>
-          <img src="./assets/tech/nextjs.svg" alt="Next.js App Router" title="Next.js App Router" width="32" height="32">
-          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
-          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
-          <img src="./assets/tech/javascript.svg" alt="JavaScript" title="JavaScript" width="32" height="32">
-          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="32" height="32">
-          &nbsp; · &nbsp;
-          <a href="https://github.com/furkan-akpinar/noa-mare-boutique-hotel"><strong>Kaynak kod</strong></a>
-          &nbsp; · &nbsp;
-          <a href="https://noa-mare-boutique-hotel.vercel.app"><strong>Canlı demo ↗</strong></a>
-          &nbsp; · &nbsp;
-          <sub>Yayın: Vercel</sub>
         </p>
       </td>
     </tr>
