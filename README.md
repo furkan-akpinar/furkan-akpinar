@@ -136,6 +136,36 @@
 <table align="center" width="100%">
   <tbody>
     <tr>
+      <td width="100%" valign="top">
+        <h3 align="left">Furkan Akpınar · CRT Portföy</h3>
+        <p>
+          CRT ekran estetiği, WebGPU destekli 3D sahneler ve kaydırmaya bağlı sinematik geçişlerle projelerimi sunduğum etkileşimli kişisel portföy.<br>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&amp;theme=dark">
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs&amp;theme=light">
+            <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=light" alt="Next.js" title="Next.js" width="32" height="32">
+          </picture>
+          <img src="./assets/tech/react.svg" alt="React" title="React" width="32" height="32">
+          <img src="./assets/tech/typescript.svg" alt="TypeScript" title="TypeScript" width="32" height="32">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=threejs&amp;theme=dark">
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=threejs&amp;theme=light">
+            <img src="https://skillicons.dev/icons?i=threejs&amp;theme=light" alt="Three.js / WebGPU / React Three Fiber" title="Three.js / WebGPU / React Three Fiber" width="32" height="32">
+          </picture>
+          <img src="./assets/tech/gsap.png" alt="GSAP / ScrollTrigger" title="GSAP / ScrollTrigger" width="32" height="32">
+          <img src="./assets/tech/lenis.png" alt="Lenis" title="Lenis" width="32" height="32">
+          <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="32" height="32">
+          <img src="./assets/tech/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="32" height="32">
+          &nbsp; · &nbsp;
+          <a href="https://github.com/furkan-akpinar/furkan-akpinar-crt-portfolio"><strong>Kaynak kod</strong></a>
+          &nbsp; · &nbsp;
+          <a href="https://furkan-akpinar-crt-portfolio.furkan-akpinar.workers.dev/"><strong>Canlı demo ↗</strong></a>
+          &nbsp; · &nbsp;
+          <sub>Yayın: Cloudflare Workers</sub>
+        </p>
+      </td>
+    </tr>
+    <tr>
   <td width="100%" valign="top">
     <h3 align="left">KARAKTER STÜDYO</h3>
     <p>
