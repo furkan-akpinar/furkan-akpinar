@@ -1,13 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/f2838cf3c0649c79e46c331f449f8e0e2bc1f65a/github-header-animated.gif" width="100%" alt="Furkan Akpınar — Ön Yüz Geliştirici ve Web Tasarımcısı">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/f2838cf3c0649c79e46c331f449f8e0e2bc1f65a/github-header-animated.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/github-header-light.gif">
+    <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/github-header-light.gif" width="100%" alt="Furkan Akpınar — Ön Yüz Geliştirici ve Web Tasarımcısı">
+  </picture>
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/f9ba239e244a1fd47bb96fc84b44fe7b64ca1563/assets/heading-role-samurai.gif" width="100%" alt="Frontend Developer · Web Tasarımcısı">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/f9ba239e244a1fd47bb96fc84b44fe7b64ca1563/assets/heading-role-samurai.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-role-samurai-light.gif">
+    <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-role-samurai-light.gif" width="100%" alt="Frontend Developer · Web Tasarımcısı">
+  </picture>
 </h1>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-about.svg" width="100%" alt="Hakkımda">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-about.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-about-light.svg">
+    <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-about-light.svg" width="100%" alt="Hakkımda">
+  </picture>
 </h2>
 
 <p>
@@ -20,23 +32,27 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TASARIM-8B5CF6?style=for-the-badge" alt="Tasarım">
+  <img src="https://img.shields.io/badge/TASARIM-6D28D9?style=for-the-badge" alt="Tasarım">
   &nbsp;
-  <img src="https://img.shields.io/badge/ETK%C4%B0LE%C5%9E%C4%B0M-0EA5E9?style=for-the-badge" alt="Etkileşim">
+  <img src="https://img.shields.io/badge/ETK%C4%B0LE%C5%9E%C4%B0M-0369A1?style=for-the-badge" alt="Etkileşim">
   &nbsp;
-  <img src="https://img.shields.io/badge/KOD-10B981?style=for-the-badge" alt="Kod">
+  <img src="https://img.shields.io/badge/KOD-047857?style=for-the-badge" alt="Kod">
   &nbsp;
-  <img src="https://img.shields.io/badge/PERFORMANS-F59E0B?style=for-the-badge" alt="Performans">
+  <img src="https://img.shields.io/badge/PERFORMANS-92400E?style=for-the-badge" alt="Performans">
   &nbsp;
-  <img src="https://img.shields.io/badge/ER%C4%B0%C5%9E%C4%B0LEB%C4%B0L%C4%B0RL%C4%B0K-EC4899?style=for-the-badge" alt="Erişilebilirlik">
+  <img src="https://img.shields.io/badge/ER%C4%B0%C5%9E%C4%B0LEB%C4%B0L%C4%B0RL%C4%B0K-BE185D?style=for-the-badge" alt="Erişilebilirlik">
   &nbsp;
-  <img src="https://img.shields.io/badge/TEST-6366F1?style=for-the-badge" alt="Test">
+  <img src="https://img.shields.io/badge/TEST-4338CA?style=for-the-badge" alt="Test">
 </p>
 
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-technologies.svg" width="100%" alt="Teknolojiler ve Araçlar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-technologies.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-technologies-light.svg">
+    <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-technologies-light.svg" width="100%" alt="Teknolojiler ve Araçlar">
+  </picture>
 </h2>
 <p align="center">Fikirden arayüze, geliştirmeden yayına.</p>
 
@@ -46,22 +62,38 @@
       <td width="33%" valign="top">
         <h3 align="center">Front-End Geliştirme</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts&amp;theme=dark" alt="HTML5, CSS3, JavaScript ve TypeScript" width="216">
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts&amp;theme=light" alt="HTML5, CSS3, JavaScript ve TypeScript" width="216">
+  </picture>
         </p>
         <p align="center">HTML5 &nbsp; · &nbsp; CSS3<br>JavaScript &nbsp; · &nbsp; TypeScript</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&amp;theme=dark" alt="React, Next.js, Vite ve Tailwind CSS" width="216">
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&amp;theme=light" alt="React, Next.js, Vite ve Tailwind CSS" width="216">
+  </picture>
         </p>
         <p align="center">React &nbsp; · &nbsp; Next.js<br>Vite &nbsp; · &nbsp; Tailwind CSS</p>
       </td>
       <td width="34%" valign="top">
         <h3 align="center">Back-End Geliştirme</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=ts,nodejs&amp;theme=dark" alt="TypeScript ve Node.js" width="104">
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs&amp;theme=light" alt="TypeScript ve Node.js" width="104">
+  </picture>
         </p>
         <p align="center">TypeScript &nbsp; · &nbsp; JavaScript<br>Node.js</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=express,postgres&amp;theme=dark" alt="Express ve PostgreSQL" width="104">
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express%2Cpostgres&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express%2Cpostgres&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=express,postgres&amp;theme=light" alt="Express ve PostgreSQL" width="104">
+  </picture>
         </p>
         <p align="center">Express<br>PostgreSQL &nbsp; · &nbsp; SQL</p>
         <p align="center"><sub>Yeni projeler için planlanan teknoloji seti.</sub></p>
@@ -69,11 +101,19 @@
       <td width="33%" valign="top">
         <h3 align="center">Geliştirme ve Yayınlama</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub ve Visual Studio Code" width="160">
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=light" alt="Git, GitHub ve Visual Studio Code" width="160">
+  </picture>
         </p>
         <p align="center">Git &nbsp; · &nbsp; GitHub<br>Visual Studio Code</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=githubactions,vercel,cloudflare&amp;theme=dark" alt="GitHub Actions, Vercel ve Cloudflare" width="160">
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions%2Cvercel%2Ccloudflare&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions%2Cvercel%2Ccloudflare&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=githubactions,vercel,cloudflare&amp;theme=light" alt="GitHub Actions, Vercel ve Cloudflare" width="160">
+  </picture>
         </p>
         <p align="center">GitHub Actions &nbsp; · &nbsp; Vercel<br>Cloudflare Workers</p>
         <p align="center"><sub>Statik projeler için GitHub Pages de kullanıyorum.</sub></p>
@@ -85,7 +125,11 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-projects.svg" width="100%" alt="Front-End Çalışmaları">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-projects.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-projects-light.svg">
+    <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-projects-light.svg" width="100%" alt="Front-End Çalışmaları">
+  </picture>
 </h2>
 <p align="center">Farklı sektörler için tasarladığım ve geliştirdiğim web deneyimleri.</p>
 
@@ -101,7 +145,11 @@
       <img src="./assets/tech/react-router-tile.svg" alt="React Router" title="React Router" width="32" height="32">
       <img src="./assets/tech/vite.svg" alt="Vite" title="Vite" width="32" height="32">
       <img src="./assets/tech/css.svg" alt="CSS" title="CSS" width="32" height="32">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vitest-Dark.svg" alt="Vitest" title="Vitest" width="32" height="32">
+      <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vitest-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vitest-Light.svg">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vitest-Light.svg" alt="Vitest" title="Vitest" width="32" height="32">
+  </picture>
       <img src="./assets/tech/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="32" height="32">
       &nbsp; · &nbsp;
       <a href="https://github.com/furkan-akpinar/karakter-studyo"><strong>Kaynak kod</strong></a>
@@ -217,7 +265,11 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-backend.svg" width="100%" alt="Back-End Çalışmaları">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/abcb8dd7806fb73285ea32e2e89082f4f97d215f/assets/heading-backend.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-backend-light.svg">
+    <img src="https://raw.githubusercontent.com/furkan-akpinar/furkan-akpinar/706e48b7de7623247a2a32d216de4ea1c5c4b5dd/assets/heading-backend-light.svg" width="100%" alt="Back-End Çalışmaları">
+  </picture>
 </h2>
 <p align="center">Planlama süreci devam eden yeni yönetim uygulamalarım.</p>
 
@@ -228,7 +280,11 @@
         <h3 align="left">01 · Randevu ve İşletme Yönetimi</h3>
         <p><strong>Devam ediyor...</strong> &nbsp; · &nbsp; Planlama aşamasında.<br>Randevu takvimi, müşteri kayıtları ve işletme süreçlerini tek panelde birleştirmeyi hedefleyen yönetim uygulaması.</p>
         <p>
-          <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&amp;theme=dark" alt="Planlanan teknolojiler: TypeScript, Node.js, Express ve PostgreSQL" width="144"><br>
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cexpress%2Cpostgres&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cexpress%2Cpostgres&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&amp;theme=light" alt="Planlanan teknolojiler: TypeScript, Node.js, Express ve PostgreSQL" width="144">
+  </picture><br>
           <strong>Planlanan diller:</strong> TypeScript / JavaScript &nbsp; · &nbsp; SQL<br>
           <strong>Planlanan altyapı:</strong> Node.js &nbsp; · &nbsp; Express &nbsp; · &nbsp; PostgreSQL
         </p>
@@ -239,7 +295,11 @@
         <h3 align="left">02 · Kurye ve Teslimat Yönetimi</h3>
         <p><strong>Devam ediyor...</strong> &nbsp; · &nbsp; Planlama aşamasında.<br>Teslimat talepleri, kurye ataması ve teslimat durumlarının takibini bir araya getirmeyi hedefleyen yönetim uygulaması.</p>
         <p>
-          <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&amp;theme=dark" alt="Planlanan teknolojiler: TypeScript, Node.js, Express ve PostgreSQL" width="144"><br>
+          <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cexpress%2Cpostgres&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cexpress%2Cpostgres&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,postgres&amp;theme=light" alt="Planlanan teknolojiler: TypeScript, Node.js, Express ve PostgreSQL" width="144">
+  </picture><br>
           <strong>Planlanan diller:</strong> TypeScript / JavaScript &nbsp; · &nbsp; SQL<br>
           <strong>Planlanan altyapı:</strong> Node.js &nbsp; · &nbsp; Express &nbsp; · &nbsp; PostgreSQL
         </p>
