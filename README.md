@@ -159,7 +159,7 @@
           &nbsp; · &nbsp;
           <a href="https://github.com/furkan-akpinar/furkan-akpinar-crt-portfolio"><strong>Kaynak kod</strong></a>
           &nbsp; · &nbsp;
-          <a href="https://furkan-akpinar-crt-portfolio.furkan-akpinar.workers.dev/"><strong>Canlı demo ↗</strong></a>
+          <a href="https://furkanakpinar.dev/"><strong>Canlı demo ↗</strong></a>
           &nbsp; · &nbsp;
           <sub>Yayın: Cloudflare Workers</sub>
         </p>
